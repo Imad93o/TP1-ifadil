@@ -1,3 +1,6 @@
 1- il va afficher toutes les infos du repo actuelle, c'est a dire la branche ou on est, si ya des choses a commit et les fichiers qui ne sont pas encore track.
 2- README.md et reponse.txt sont prêts a être commit.
-3-
+3-apres le "git add ." ils sont partis dans l'index.
+5-j'ai utilisé git log
+6-la diff entre git diff --staged et git diff c'est que git diff -- staged va chercher les differences qui sont dans l'index.
+7-
